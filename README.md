@@ -1,5 +1,7 @@
 # FlowKit tutorials
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab)
+
 Here are some tutorials that will teach you how to use FlowKit for CDR analysis.
 
 ## What is FlowKit?
@@ -17,23 +19,23 @@ Here are some tutorials that will teach you how to use FlowKit for CDR analysis.
 
 In this section you will learn how to connect to a FlowKit server and get aggregated data.
 
-- [Getting started with FlowClient](01-getting-started-with-flowclient.ipynb)  
-- [Running a query](02-running-a-query.ipynb)  
+- [Getting started with FlowClient](01-getting-started-with-flowclient.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/01-getting-started-with-flowclient.ipynb)  
+- [Running a query](02-running-a-query.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/02-running-a-query.ipynb)  
 
 ### Intermediate
 
 In this section you will learn more about the kinds of queries that are available in FlowKit.
 
-- [Geography](03-geography.ipynb)  
-- [More complex queries](04-more-complex-queries.ipynb)  
+- [Geography](03-geography.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/03-geography.ipynb)  
+- [More complex queries](04-more-complex-queries.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/04-more-complex-queries.ipynb)  
 
 ### Advanced
 
 In this section you will learn some alternative ways to use FlowClient, which may be more convenient in some situations.
 You can use FlowClient without knowing this stuff...
 
-- [Async client](05-async-client.ipynb)  
-- [Lower-level functions](06-lower-level-functions.ipynb)  
+- [Async client](05-async-client.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/05-async-client.ipynb)  
+- [Lower-level functions](06-lower-level-functions.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/06-lower-level-functions.ipynb)  
 
 ## Next steps
 
