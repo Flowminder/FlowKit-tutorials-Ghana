@@ -1,43 +1,9 @@
 # FlowKit tutorials
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/index.ipynb)
 
-Here are some tutorials that will teach you how to use FlowKit for CDR analysis.
+This is a Binder repository of tutorials for learning how to use [FlowKit](https://flowkit.xyz/) for CDR analysis. The tutorials are Jupyter notebooks which use the [FlowClient](https://flowkit.xyz/analyst/#flowclient) python client to interact with FlowKit. These tutorials are designed to be used with the Ghana FlowCloud deployment at [api.flowcloud-ghana.flowminder.org](https://api.flowcloud-ghana.flowminder.org/api/0/spec/redoc).
 
-## What is FlowKit?
+To run the tutorials, click the Binder badge above.
 
-- and why do I care?  
-
-## What is FlowClient?
-
-- Python client for communicating with a FlowKit server  
-- Will use FlowClient in these tutorials  
-
-## Contents
-
-### Basic
-
-In this section you will learn how to connect to a FlowKit server and get aggregated data.
-
-- [Getting started with FlowClient](01-getting-started-with-flowclient.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/01-getting-started-with-flowclient.ipynb)  
-- [Running a query](02-running-a-query.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/02-running-a-query.ipynb)  
-
-### Intermediate
-
-In this section you will learn more about the kinds of queries that are available in FlowKit.
-
-- [Geography](03-geography.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/03-geography.ipynb)  
-- [More complex queries](04-more-complex-queries.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/04-more-complex-queries.ipynb)  
-
-### Advanced
-
-In this section you will learn some alternative ways to use FlowClient, which may be more convenient in some situations.
-You can use FlowClient without knowing this stuff...
-
-- [Async client](05-async-client.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/05-async-client.ipynb)  
-- [Lower-level functions](06-lower-level-functions.ipynb) | [(Try it on Binder)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/06-lower-level-functions.ipynb)  
-
-## Next steps
-
-Once you have worked through these tutorials, have a look at the [worked examples](https://flowkit.xyz/analyst/worked_examples/) to see some practical examples of analysis using FlowKit.
-(Note: would be good to also add a how-to / worked example here for the COVID aggregates / indicators)
+(TODO: add some instructions for running locally, as an alternative to Binder)
