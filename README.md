@@ -2,12 +2,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/index.ipynb)
 
-This is a Binder repository of tutorials for learning how to use [FlowKit](https://flowkit.xyz/) for CDR analysis. The tutorials are Jupyter notebooks which use the [FlowClient](https://flowkit.xyz/analyst/#flowclient) python client to interact with FlowKit. These tutorials are designed to be used with the Ghana FlowCloud deployment at [api.flowcloud-ghana.flowminder.org](https://api.flowcloud-ghana.flowminder.org/api/0/spec/redoc).
+This is a Binder repository of tutorials for learning how to use [FlowKit](https://flowkit.xyz/) for CDR analysis. The tutorials are Jupyter notebooks which use the [FlowClient](https://flowkit.xyz/analyst/#flowclient) python client to interact with FlowKit. These tutorials are designed to be used with the Ghana FlowCloud deployment.
 
 ## Running the tutorials
-
-### Binder
-To run the tutorials online, click the Binder badge above. This will start a Jupyter server in the cloud with all dependencies installed, which you can use to run the tutorial notebooks.
 
 ### Locally (using conda)
 
@@ -29,3 +26,6 @@ conda activate flowkit-tutorials
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter lab index.ipynb
 ```
+
+### Binder
+To run the tutorials online, click the Binder badge at the top of this README. This will start a Jupyter server in the cloud with all dependencies installed, which you can use to run the tutorial notebooks.
