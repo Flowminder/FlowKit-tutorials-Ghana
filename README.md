@@ -16,7 +16,7 @@ To run the tutorials on your local machine, you will need to do the following (t
 4. Install the jupyter-widgets lab extension (so that FlowKit progress bars will appear in the notebooks)  
 5. Start a Jupyter Lab session (or Jupyter Notebook, if you prefer), and open `index.ipynb`  
 
-You can run the following in a `bash` shell to set everything up:
+You can run the following in a `bash` shell (or a git-bash terminal on Windows) to set everything up:
 
 ```bash
 git clone https://github.com/Flowminder/FlowKit-tutorials-Ghana

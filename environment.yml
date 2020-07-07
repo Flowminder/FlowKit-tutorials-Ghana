@@ -1,13 +1,17 @@
 name: flowkit-tutorials
+channels:
+  - defaults
+  - conda-forge
 dependencies:
   - python=3.8
-  - numpy=1.19.*
+  - numpy=1.18.*
   - pandas=1.0.*
   - matplotlib=3.2.*
   - geopandas=0.8.*
   - descartes=1.1.*
   - ipywidgets=7.5.*
   - jupyterlab=2.1.*
+  - mapboxgl=0.10.*
+  - pip
   - pip:
     - flowclient=1.11.*
-    - mapboxgl=0.10.*
