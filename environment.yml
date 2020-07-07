@@ -14,4 +14,4 @@ dependencies:
   - mapboxgl=0.10.*
   - pip
   - pip:
-    - flowclient=1.11.*
+    - flowclient==1.11.*
