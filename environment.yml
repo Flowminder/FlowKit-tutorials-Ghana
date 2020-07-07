@@ -1,0 +1,13 @@
+name: flowkit-tutorials
+dependencies:
+  - python=3.8
+  - numpy=1.19.*
+  - pandas=1.0.*
+  - matplotlib=3.2.*
+  - geopandas=0.8.*
+  - descartes=1.1.*
+  - ipywidgets=7.5.*
+  - jupyterlab=2.1.*
+  - pip:
+    - flowclient=1.11.*
+    - mapboxgl=0.10.*
