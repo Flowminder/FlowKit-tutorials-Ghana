@@ -12,6 +12,7 @@ dependencies:
   - ipywidgets=7.5.*
   - jupyterlab=2.1.*
   - mapboxgl=0.10.*
+  - nodejs
   - pip
   - pip:
     - flowclient==1.11.*
