@@ -1,6 +1,6 @@
 # FlowKit tutorials
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/new_content?urlpath=lab/tree/index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/master?urlpath=lab/tree/index.ipynb)
 
 This is a Binder repository of tutorials for learning how to use [FlowKit](https://flowkit.xyz/) for CDR analysis. The tutorials are Jupyter notebooks which use the [FlowClient](https://flowkit.xyz/analyst/#flowclient) python client to interact with FlowKit. These tutorials are designed to be used with the Ghana FlowCloud deployment.
 
