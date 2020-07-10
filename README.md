@@ -28,4 +28,7 @@ jupyter lab index.ipynb
 ```
 
 ### Binder
+
 To run the tutorials online, click the Binder badge at the top of this README. This will start a Jupyter server in the cloud with all dependencies installed, which you can use to run the tutorial notebooks.
+
+**Note:** The Binder session will shut down after a period of inactivity, and any changes you make to the tutorial notebooks will be lost. To download a copy of a tutorial notebook with any changes you made, use `File`→`Download`.
