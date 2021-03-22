@@ -8,7 +8,7 @@ This is a Binder repository of tutorials for learning how to use [FlowKit](https
 
 ### Locally (using conda)
 
-To run the tutorials on your local machine, you will need to do the following (these instructions assume that you have [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) installed):
+To run the tutorials on your local machine, you will need to do the following (these instructions assume that you have [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) installed) :
 
 1. Clone this repository  
 2. Create a `conda` environment for the tutorials, using `environment.yml`  
@@ -29,6 +29,6 @@ jupyter lab index.ipynb
 
 ### Binder
 
-To run the tutorials online, click the Binder badge at the top of this README. This will start a Jupyter server in the cloud with all dependencies installed, which you can use to run the tutorial notebooks.
+To run the tutorials online, click the [Binder](https://mybinder.org/v2/gh/Flowminder/FlowKit-tutorials-Ghana/master?urlpath=lab/tree/index.ipynb) badge at the top of this `README`. This will start a Jupyter server in the cloud with all dependencies installed, which you can use to run the tutorial notebooks.
 
 **Note:** The Binder session will shut down after a period of inactivity, and any changes you make to the tutorial notebooks will be lost. To download a copy of a tutorial notebook with any changes you made, use `File`→`Download`.
